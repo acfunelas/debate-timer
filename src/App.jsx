@@ -286,7 +286,7 @@ function App() {
   return (
     <main className="app-shell container-fluid p-0">
       <header className="topbar d-flex justify-content-between align-items-center">
-        <a className="brand" href="#" aria-label="Debate Timer home">DEBATE TIMER</a>
+        <a className="brand" href="#" aria-label="Debate Timer home">DEBATE TIMER by VIN</a>
         <button
           className="settings-toggle btn"
           onClick={() => setSettingsOpen(true)}
